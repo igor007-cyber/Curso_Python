@@ -1,2 +1,2 @@
 # Curso_Python
-Aulas de Python
+Aulas e aprendizados de Python
