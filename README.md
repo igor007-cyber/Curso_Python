@@ -1,2 +1,2 @@
 # Curso de Python
-Aulas e aprendizados de Python em Andamento
+ESTUDO DE PYTHON EM ANDAMENTO
