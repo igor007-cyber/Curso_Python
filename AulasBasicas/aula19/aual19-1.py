@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 l1 = [0, 1, 2]
 l2 = [3, 4, 5]
 l1.extend(l2)  # ela extendi

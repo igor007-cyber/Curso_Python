@@ -5,9 +5,6 @@ Funções - def em Python - *args **kwargs - (parte 3)
 # quando isso acontece, dai por diante tem que fazer desse jeito;
 
 
-from sklearn.svm import l1_min_c
-
-
 def func(a1, a2, a3, a4, a5, nome=None, a6=None):
     print(a1, a2, a3, a4, a5, nome, a6)
 
